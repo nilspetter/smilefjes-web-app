@@ -1,5 +1,5 @@
 # smilefjes-web-app
-Dette er en enkel webapp som søker opp i mattilsynets smilefjesordning.
+Dette er en enkel webapp laget i React som søker opp i mattilsynets smilefjesordning.
 Virksomhetsbeskrivelsen er hentet fra brønnøysundregisteret, basert på orgnummeret registert i smilefjesordningen.
 
 Hvordan starte webappen:
